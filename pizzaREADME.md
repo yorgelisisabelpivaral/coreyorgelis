@@ -1,7 +1,7 @@
 # coreyorgelis
 * ingredientes
-* arina
+* arina 
 * maza
 * pasta de tomate
 * peperoni
-* quezo chedar
+* quezo chedar  
